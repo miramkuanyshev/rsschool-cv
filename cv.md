@@ -71,3 +71,13 @@ const gameBot = () => {
     gameBotTwo();
 }
 ```
+========================================
+### Education
+========================================
+**University:** Orenburg State Pedagogical University
+**Courses:** Fundamentals of frontend development (Innopolis University)
+========================================
+### English
+========================================
+**А1**
+
